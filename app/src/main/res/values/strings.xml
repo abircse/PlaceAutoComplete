@@ -1,7 +1,4 @@
 <resources>
     <string name="app_name">PlaceAutoCompleteSearch</string>
-<!--    <string name="api_key">AIzaSyDtSVIkwbeoggnWSy-xOFB9WHUfPZqzCb4</string>-->
-
-    <string name="api_key">AIzaSyBvOFVDazvd9et5EEafsE2jHdFJpF604-Y</string>
-
+    <string name="api_key">ADD_YOUR_GOOGLE_API_KEY_HERE</string>
 </resources>
